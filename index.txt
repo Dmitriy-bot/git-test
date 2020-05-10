@@ -6,3 +6,4 @@ yashipump
 stash check 
 some file
 ammend test
+git tag test 
