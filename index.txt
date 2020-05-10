@@ -5,3 +5,4 @@ merge local diff, merge test
 yashipump
 stash check 
 some file
+ammend test~
