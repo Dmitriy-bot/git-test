@@ -9,3 +9,6 @@ ammend test
 git tag test 
 
 checkout tag 
+
+forse push check
+
