@@ -1,0 +1,9 @@
+.idea
+node_modules
+js
+.bowerrc
+bower.json
+package-lock.json
+package.json
+styles
+
